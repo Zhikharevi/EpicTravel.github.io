@@ -1,1 +1,1 @@
-# EpicTravel.github.io
+Ссылка на макет Figma https://www.figma.com/file/ttWbLNphbRoIPNrzVMIMUP/%D0%AD%D0%BF%D0%B8%D0%BA-%D0%A2%D1%80%D1%8D%D0%B2%D0%B5%D0%BB-%2F-Epic-Travel-2024-(Copy)?type=design&node-id=0%3A1&mode=design&t=McJhH8QcLfwERV3P-1
